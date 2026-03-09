@@ -134,11 +134,11 @@ class HomePage extends StatelessWidget {
                       ),
                       _buildServiceCard(
                         context,
-                        "Hôpitaux",
+                        "Carnet Médical",
                         Icons.local_hospital_rounded,
                         Colors.orangeAccent,
-                        '/hospitals',
-                        "Trouver l'aide"
+                        '/carnet',
+                        "visiter votre carnet médical"
                       ),
                       _buildServiceCard(
                         context,

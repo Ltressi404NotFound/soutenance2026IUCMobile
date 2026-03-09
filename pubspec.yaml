@@ -44,6 +44,8 @@ dependencies:
   url_launcher: ^6.3.1   # Pour l'appel d'urgence
   provider: ^6.1.2       # Pour gérer la langue dans toute l'app
   intl: ^0.19.0
+  pdf: ^3.10.4
+  printing: ^5.11.0
 
 dev_dependencies:
   flutter_test:

@@ -14,7 +14,7 @@ class _IntroPageState extends State<IntroPage> {
     {
       "title": "Expertise Médicale",
       "desc": "Accédez aux meilleurs neurologues de l'Hôpital de District de Loum depuis votre mobile.",
-      "image": "https://images.unsplash.com/photo-1559839734-2b71f1536783?auto=format&fit=crop&q=80&w=800",
+      "image": "https://img.passeportsante.net/1200x675/2021-05-03/i103772-neurologie.webp",
     },
     {
       "title": "Gestes de Secours",

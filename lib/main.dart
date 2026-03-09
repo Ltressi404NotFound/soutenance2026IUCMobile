@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:provider/provider.dart'; // Nécessaire pour la traduction globale
 import 'services/translation_service.dart'; // Ton service de traduction
+import 'views/hopital_carner_page.dart'; // Vérifie que le nom du fichier correspond
+import 'package:firebase_auth/firebase_auth.dart'; // Nécessaire pour passer l'UID
 
 // Import des vues
 import 'views/splash_screen.dart';
@@ -76,6 +78,9 @@ class FirstAidApp extends StatelessWidget {
             '/firstaid_steps': (context) => const FirstAidStepsPage(),
             '/profile': (context) => ProfilePage(),
             '/chat': (context) => ChatPage(), // Route pour la Chatbox
+            '/carnet': (context) => CarnetMedicalPage(
+              uid: FirebaseAuth.instance.currentUser?.uid ?? '',
+            ),
           },
         );
       },
