@@ -19,27 +19,27 @@ class FirstAidStepsPage extends StatelessWidget {
       {
         "titleFR": "2. Chronométrer la crise", "titleEN": "2. Time the seizure",
         "descFR": "Notez l'heure de début. Si elle dure plus de 5 min, appelez l'urgence.", "descEN": "Note the start time. If it lasts more than 5 min, call emergency.",
-        "url": "https://cdn-icons-png.flaticon.com/512/3232/3232551.png"
+        "url": "https://2.bp.blogspot.com/-IufKc77hLmA/UqHGizfSe2I/AAAAAAAADgQ/T07WqH5GZQE/s1600/54634874ym6.jpg"
       },
       {
         "titleFR": "3. Protéger la tête", "titleEN": "3. Protect the head",
         "descFR": "Placez quelque chose de souple sous sa tête.", "descEN": "Place something soft under their head.",
-        "url": "https://www.croix-rouge.fr/var/ezflow_site/storage/images/media/images/ps-6-conduite-a-tenir/744081-1-fre-FR/PS-6-conduite-a-tenir_large.jpg"
+        "url": "https://img.freepik.com/photos-gratuite/medecin-age-utilisant-tonometre-medical-pour-mesurer-pression-pulsee-hypertension-du-patient-effectuant-examen-cardiologie-dans-salle-attente-hopital-homme-age-assistant-visite-controle-notion-medecine_482257-69568.jpg"
       },
       {
         "titleFR": "4. Écarter les objets", "titleEN": "4. Clear the area",
         "descFR": "Éloignez les meubles ou objets durs pour éviter les blessures.", "descEN": "Move furniture or hard objects away to avoid injury.",
-        "url": "https://cdn-icons-png.flaticon.com/512/1257/1257125.png"
+        "url": "https://www.drkmst.de/assets/images/1/Arzt-Patient-Pflege_CHI-e8ca2784.jpg"
       },
       {
         "titleFR": "5. Ne rien mettre en bouche", "titleEN": "5. Nothing in mouth",
         "descFR": "N'essayez jamais de lui tenir la langue ou de mettre un objet.", "descEN": "Never try to hold the tongue or put an object in the mouth.",
-        "url": "https://cdn-icons-png.flaticon.com/512/3232/3232491.png"
+        "url": "https://img.freepik.com/photos-premium/groupe-personnes-assises-dans-salle-attente-hopital-parlant-du-soutien-assurance-medicale-patients-masculins-attendant-assister-examen-discutant-traitement-medicament_482257-60766.jpg"
       },
       {
         "titleFR": "6. Ne pas retenir", "titleEN": "6. Do not restrain",
         "descFR": "Ne tentez pas de stopper ses mouvements saccadés.", "descEN": "Do not try to stop the jerky movements.",
-        "url": "https://cdn-icons-png.flaticon.com/512/3232/3232537.png"
+        "url": "https://c8.alamy.com/compfr/2jwbb97/patiente-asiatique-assise-avec-des-jambes-relaxantes-et-un-tube-d-ecoulement-intraveineux-a-portee-de-main-a-l-hopital-en-noir-et-blanc-2jwbb97.jpg"
       },
       {
         "titleFR": "7. Desserrer les vêtements", "titleEN": "7. Loosen clothing",
@@ -54,22 +54,22 @@ class FirstAidStepsPage extends StatelessWidget {
       {
         "titleFR": "9. Libérer les voies", "titleEN": "9. Clear airway",
         "descFR": "Vérifiez que rien ne gêne sa respiration une fois sur le côté.", "descEN": "Ensure nothing blocks breathing once on their side.",
-        "url": "https://cdn-icons-png.flaticon.com/512/3232/3232525.png"
+        "url": "https://o.quizlet.com/xFN96B.ippRwiMZUYvbXhg.png"
       },
       {
         "titleFR": "10. Rester présent", "titleEN": "10. Stay with them",
         "descFR": "Attendez qu'elle reprenne totalement ses esprits.", "descEN": "Wait until they are fully conscious.",
-        "url": "https://cdn-icons-png.flaticon.com/512/3232/3232541.png"
+        "url": "https://img.freepik.com/photos-gratuite/medecin-praticien-afro-americain-debout-cote-jeune-patient-malade-lors-rendez-vous-medical-expliquant-expertise-radiographie-osseuse-dans-service-hospitalier-femme-medecin-discutant-expertise-soins-sante_482257-33629.jpg?size=626&ext=jpg"
       },
       {
         "titleFR": "11. Parler calmement", "titleEN": "11. Speak calmly",
         "descFR": "Rassurez la personne, elle peut être confuse au réveil.", "descEN": "Reassure the person, they may be confused upon waking.",
-        "url": "https://cdn-icons-png.flaticon.com/512/3232/3232502.png"
+        "url": "https://media.istockphoto.com/id/1464381424/photo/sick-patient-standing-in-bed-while-african-american-physician-doctor-monitoring-heart-rate.jpg?s=170667a&w=0&k=20&c=2nEZ1rpNkDXm3utblplZ202KzdbFu2OsUgtHeqJfOlw="
       },
       {
         "titleFR": "12. Vérifier l'identité", "titleEN": "12. Check ID",
         "descFR": "Cherchez un bracelet ou une carte médicale d'épileptique.", "descEN": "Look for a medical ID bracelet or card.",
-        "url": "https://cdn-icons-png.flaticon.com/512/3232/3232517.png"
+        "url": "https://embrlabs.com/cdn/shop/files/embr_wave_half_header_1920x540_hands.jpg?v=1702315417"
       },
     ];
 
